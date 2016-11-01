@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package agileworkshopsorts2;
+package agileworkshopsorts;
 
 /**
  *
  * @author Training
  */
-public class AgileWorkshopSorts2 {
+public class AgileWorkshopSorts {
 
     /**
      * @param args the command line arguments
