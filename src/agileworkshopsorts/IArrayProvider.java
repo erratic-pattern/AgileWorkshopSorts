@@ -11,6 +11,6 @@ package agileworkshopsorts;
  *            we can sort with ISorter.
  * 
  */
-public interface IArrayGenerator<T extends Comparable> {
+public interface IArrayProvider<T extends Comparable> {
     public T[] generateArray();
 }

@@ -3,13 +3,13 @@ package agileworkshopsorts;
 /**
  *
  * @author Adam Curtis
- * 
- * This a dummy implementation of the IArrayGenerator interface. The result
- * is a randomly generated array of integers. This class is intended to be
- * used for testing purposes only.
+ 
+ This a dummy implementation of the IArrayProvider interface. The result
+ is a randomly generated array of integers. This class is intended to be
+ used for testing purposes only.
  * 
  */
-public class RandomArrayGenerator implements IArrayGenerator<Integer> {
+public class RandomArrayProvider implements IArrayProvider<Integer> {
     
     @Override
     public Integer[] generateArray() {
