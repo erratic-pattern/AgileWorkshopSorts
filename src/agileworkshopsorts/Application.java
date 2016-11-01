@@ -9,7 +9,7 @@ package agileworkshopsorts;
  *
  * @author Training
  */
-public class AgileWorkshopSorts {
+class Application {
 
     /**
      * @param args the command line arguments
